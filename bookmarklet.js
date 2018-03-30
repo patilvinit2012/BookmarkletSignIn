@@ -1,0 +1,1 @@
+javascript:(function(){document.querySelector('#userNameInput').value = 'INSERT_USER_ID_HERE';document.querySelector('#passwordInput').value = 'INSERT_PASSWORD_HERE';document.querySelector('#submitButton').click();})();
